@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/yolov5_mask/mask/train/images
+val: /content/drive/MyDrive/yolov5_mask/mask/valid/images
+
+nc: 2
+names: ['no-mask', 'mask']
